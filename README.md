@@ -1,6 +1,6 @@
-- 🤙 ii, i'm alex c. kraasch
-- 📖 interests: computer-aided learning, computer security.
-- 🌱 never stop learning.
+- 🤙 i'm alex c. kraasch
+- 📖 my interests: computer-aided learning, computer security.
+- 🌱 never stop learning!
 - 💌 reach me via mail.
 
 <!---
