@@ -1,2 +1,8 @@
-- i'm Alex Kraasch
-- interests: computer-aided learning, computer security and game game development
+My name is Alex Kraasch,
+
+Amongst my interests are such elements as 
+
+ - computer-aided learning,
+ - computer security and
+ - game game development
+
