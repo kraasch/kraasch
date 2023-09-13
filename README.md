@@ -1,4 +1,5 @@
-My name is Alex Kraasch,
+
+Howdy! My name is Alex!
 
 Amongst my interests are such elements as 
 
