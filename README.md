@@ -7,4 +7,4 @@ Amongst my interests are such elements as
  - game development and
  - computer security.
 
-![My oh my!](./data/spanish-inq_v00.gif) ![FourtyTwo](./data/whale+petunia_v00.gif)
+![NobodyExpects](./data/spanish-inq_v00.gif) ![FourtyTwo](./data/whale+petunia_v00.gif) ![Kintaro](./data/kintaro_v00.gif)
