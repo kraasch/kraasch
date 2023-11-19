@@ -1,5 +1,5 @@
 
-Howdy! My name is Alex!
+Howdy! Name's Alex!
 
 Amongst my interests are such elements as 
 
