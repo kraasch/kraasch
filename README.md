@@ -20,3 +20,11 @@ Amongst my interests are such elements as
 If you like my work feel free to give me a tip at [ko-fi.com/kraasch](https://ko-fi.com/kraasch) ☕.
 
 So long!
+
+Here my [stats](https://github-profile-summary-cards.vercel.app/demo.html):
+
+![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=default)
+![languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kraasch&theme=default)
+![languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kraasch&theme=default)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kraasch&theme=default)
+![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kraasch&theme=default&utcOffset=8)
