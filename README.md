@@ -23,8 +23,8 @@ So long!
 
 Here my [stats](https://github-profile-summary-cards.vercel.app/demo.html):
 
-![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=apprentice)
-![languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kraasch&theme=apprentice)
-![languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kraasch&theme=apprentice)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kraasch&theme=apprentice)
-![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kraasch&theme=apprentice&utcOffset=8)
+![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=ayu_mirage)
+![languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kraasch&theme=ayu_mirage)
+![languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kraasch&theme=ayu_mirage)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kraasch&theme=ayu_mirage)
+![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kraasch&theme=ayu_mirage&utcOffset=8)
