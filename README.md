@@ -23,8 +23,8 @@ So long!
 
 Here my [stats](https://github-profile-summary-cards.vercel.app/demo.html):
 
-![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura)
-![languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kraasch&theme=aura)
-![languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kraasch&theme=aura)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kraasch&theme=aura)
-![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kraasch&theme=aura&utcOffset=8)
+![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura_dark)
+![languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kraasch&theme=aura_dark)
+![languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kraasch&theme=aura_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kraasch&theme=aura_dark)
+![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kraasch&theme=aura_dark&utcOffset=8)
