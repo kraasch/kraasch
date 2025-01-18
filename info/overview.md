@@ -6,13 +6,6 @@
  - inspect
    - [bashdash](https://github.com/kraasch/bashdash)
    - [bdirbs](https://github.com/kraasch/bdirbs)
- - delete
-   - [bash_dir-helpers](https://github.com/kraasch/bash_dir-helpers)
-   - [bash_find-extras](https://github.com/kraasch/bash_find-extras)
-   - [bash_project-init-scripts](https://github.com/kraasch/bash_project-init-scripts)
-   - [bash_stats](https://github.com/kraasch/bash_stats)
-   - [name-changer-scripts](https://github.com/kraasch/name-changer-scripts)
-   - [plot-from-cli](https://github.com/kraasch/plot-from-cli)
 
 ## active
 
