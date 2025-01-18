@@ -1,12 +1,6 @@
 
 # github overview
 
-## todo
-
- - inspect
-   - [bashdash](https://github.com/kraasch/bashdash)
-   - [bdirbs](https://github.com/kraasch/bdirbs)
-
 ## active
 
  - wiki
@@ -15,6 +9,8 @@
  - development
    - [git-walker](https://github.com/kraasch/git-walker)
    - [watchcat](https://github.com/kraasch/watchcat)
+   - [bashdash](https://github.com/kraasch/bashdash)
+   - [bdirbs](https://github.com/kraasch/bdirbs)
  - tools
    - [command-line-scripts](https://github.com/kraasch/command-line-scripts)
    - [neocal](https://github.com/kraasch/neocal)
