@@ -25,7 +25,7 @@
    - [my-files_shaders](https://github.com/kraasch/my-files_shaders)
    - [my-files_svgs](https://github.com/kraasch/my-files_svgs)
 
-## ideate + incubate (active some day)
+## ideate + incubate (reactivate)
 
  - useful
    - [png2ttf](https://github.com/kraasch/png2ttf)
@@ -35,7 +35,7 @@
    - [periodviz](https://github.com/kraasch/periodviz)
    - [web_imdb](https://github.com/kraasch/web_imdb)
 
-## dormant (active some day)
+## dormant (reactivate)
 
  - game dev + godot
    - [godot4_addon_basic-menu](https://github.com/kraasch/godot4_addon_basic-menu)
@@ -44,7 +44,7 @@
    - [itchio-butler-wrapper](https://github.com/kraasch/itchio-butler-wrapper)
    - [wumpus3d](https://github.com/kraasch/wumpus3d)
 
-## attic (forever to stay)
+## attic (happy as-is)
 
  - templates
    - [template_csharp_battery-info](https://github.com/kraasch/template_csharp_battery-info)
