@@ -7,6 +7,10 @@ Amongst my interests are such elements as
  - 🎲 game development and
  - 🛡️ computer security.
 
+If you like my work feel free to give me a tip at [ko-fi.com/kraasch](https://ko-fi.com/kraasch) ☕.
+
+So long!
+
 <!--
 [![NobodyExpects](./data/spanish-inq_v00.gif)](https://www.youtube.com/watch?v=D5Df191WJ3o)
 [![FourtyTwo](./data/whale+petunia_v00.gif)](https://www.youtube.com/watch?v=THSY7-CxKnQ)
@@ -17,11 +21,8 @@ Amongst my interests are such elements as
 ![FourtyTwo](./data/whale+petunia_v00.gif)
 ![Kintaro](./data/kintaro_v00.gif)
 
-If you like my work feel free to give me a tip at [ko-fi.com/kraasch](https://ko-fi.com/kraasch) ☕.
+Here my [project overview](./info/overview.md).
 
-So long!
-
-Here my [project overview](./info/overview.md)
 Here my [stats](https://github-profile-summary-cards.vercel.app/demo.html):
 
 ![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura)
