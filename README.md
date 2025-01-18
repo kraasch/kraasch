@@ -1,4 +1,3 @@
-[//]: # (ghs/project-type: toast)
 
 Howdy! Name's Alex!
 
@@ -22,6 +21,7 @@ If you like my work feel free to give me a tip at [ko-fi.com/kraasch](https://ko
 
 So long!
 
+Here my [project overview](./info/overview.md)
 Here my [stats](https://github-profile-summary-cards.vercel.app/demo.html):
 
 ![general](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura)
