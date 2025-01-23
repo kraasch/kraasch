@@ -71,7 +71,7 @@
    - [try-out_python-network-graphs](https://github.com/kraasch/try-out_python-network-graphs)
  - inactive + frozen
    - [asciipixels](https://github.com/kraasch/asciipixels)
-   - [go-hunt-the-wumpus](https://github.com/kraasch/go-hunt-the-wumpus)
+   - [wumpus](https://github.com/kraasch/wumpus)
    - [happymaze](https://github.com/kraasch/happymaze)
    - [hunt-the-wumpys](https://github.com/kraasch/hunt-the-wumpys)
    - [lazyradio](https://github.com/kraasch/lazyradio)
