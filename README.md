@@ -26,7 +26,7 @@ Other things:
       <img src="https://github-readme-stats.vercel.app/api?username=kraasch&custom_title=Alexes%20GitHub%20Stats&show_icons=true&hide_border=true&theme=transparent&text_color=38bdae&cache_seconds=86400" alt="Alex's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salif&layout=compact&hide_border=true&theme=transparent&text_color=38bdae&langs_count=32&cache_seconds=86400" alt="Wakatime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kraasch&layout=compact&hide_border=true&theme=transparent&text_color=38bdae&langs_count=32&cache_seconds=86400" alt="Wakatime Stats" />
     </td>
   </tr>
 </table>
