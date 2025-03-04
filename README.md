@@ -7,7 +7,6 @@ Amongst my interests are such elements as
   - game development and
   - computer security.
 
-
 So long!
 
 ---
@@ -31,7 +30,7 @@ Other things:
 <details>
   <summary>Even more stats</summary>
   <br />
-  More <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>.
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>.
   <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura" alt="general" width="600"/>
   <br />
