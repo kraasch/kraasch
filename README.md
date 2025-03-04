@@ -28,13 +28,13 @@ Other things:
   </tr>
 </table>
 
-<[details](details)
+<details>
   <summary>Time stats</summary>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kraasch&layout=compact&hide_border=true&theme=transparent&text_color=38bdae&langs_count=32&cache_seconds=86400" alt="Wakatime Stats" />
 </details>
 
-<[details](details)
+<details>
   <summary>Even more stats</summary>
   <br />
   More <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>.
