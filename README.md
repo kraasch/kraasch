@@ -32,11 +32,11 @@ Other things:
   <summary>Even more stats</summary>
   <br />
   More <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>.
- 
+  <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura" alt="general" width="600"/>
- 
+  <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kraasch&theme=aura" alt="languages by repo" width="299"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kraasch&theme=aura" alt="languages by commit" width="299"/>
- 
+  <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kraasch&theme=aura" alt="stats" width="299"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kraasch&theme=aura&utcOffset=8" alt="commits" width="299"/>
 </details>
 
