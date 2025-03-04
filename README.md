@@ -11,11 +11,6 @@ So long!
 
 ---
 
-Other things:
-
-  - [my project overview](./info/overview.md)
-  - [ko-fi.com/kraasch](https://ko-fi.com/kraasch)
-
 <table>
   <tr>
     <td>
@@ -29,8 +24,8 @@ Other things:
 
 <details>
   <summary>Even more stats</summary>
-  <br />
   <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>.
+  <a href="./info/overview.md">Small project overview</a>.
   <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura" alt="general" width="600"/>
   <br />
