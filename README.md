@@ -22,8 +22,9 @@ So long!
 
 <details>
   <summary>Even more stats</summary>
-  <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>.
   <a href="./info/overview.md">Small project overview</a>.
+  <br />
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">Github stats</a>:
   <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kraasch&theme=aura" alt="general" width="600"/>
   <br />
