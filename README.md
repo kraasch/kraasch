@@ -9,8 +9,6 @@ Amongst my interests are such elements as
 
 So long!
 
----
-
 <table>
   <tr>
     <td>
